@@ -1,0 +1,2 @@
+.poster{height:150px;padding:10px}.poster:hover{transition:all .3s linear;transform:scale(1.09)}.poster--mov{overflow-x:scroll;overflow-y:hidden}.poster--mov::-webkit-scrollbar{display:none}header{object-fit:contain}.heading{padding-top:150px;font-size:2rem;font-weight:700}.btn-banner{background-color:#242424;color:#fff;padding:5px;border:none;outline:none;width:5.5rem;height:2rem;transition:all .5s linear}.btn-banner:hover{background-color:#e3e3e3;color:#000}
+/*# sourceMappingURL=main.289d4849.chunk.css.map */
